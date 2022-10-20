@@ -4,7 +4,10 @@ public class Table
     public int TableId{set;get;} = 0;
     public int MaxUsers{set;get;}
     public ICollection<User> Users = new List<User>();
-
+public Table()
+{
+    
+}
     public Table(int maxSize){
         MaxUsers = maxSize;
     }
@@ -12,26 +15,6 @@ public class Table
     {
         TableId = id;
         MaxUsers = maxSize;
-    }
-
-    public void AddExistingUser(User a){
-        Users.Add(a);
-    }
-
-    public void AddNewUser(string name, string surname, string job){
-        Users.Add(new User(name, surname, job));
-    }
-
-    public void GetUserData(int id){
-        foreach (var item in Users)
-        {
-            if(item.UserId == id){
-                item.GetUserData();
-            }
-            else{
-                Console.WriteLine("error: no such user");
-            }
-        }
     }
 
     public int CountUsers(){

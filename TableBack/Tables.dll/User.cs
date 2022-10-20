@@ -5,12 +5,14 @@ public class User
     public string UserName{set;get;} = string.Empty;
     public string UserSurname{set;get;} = string.Empty;
     public string UserJobTitle{set;get;} = string.Empty;
+    public int TableId{set;get;}
 
-public User(string username, string usersurname, string jobtitle)
+public User(string username, string usersurname, string jobtitle, int tableId)
 {
     UserName = username;
     UserSurname = usersurname;
     UserJobTitle = jobtitle;
+    TableId = tableId;
 }
 
     public string GetUserData(){

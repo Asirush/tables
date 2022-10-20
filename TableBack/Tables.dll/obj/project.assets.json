@@ -46,11 +46,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/asirush/Documents/job/tables/TablesService/Tables.dll/Tables.dll.csproj",
+      "projectUniqueName": "/home/asirush/Documents/learning/itstep/csCource/tables/TablesService/Tables.dll/Tables.dll.csproj",
       "projectName": "Tables.dll",
-      "projectPath": "/home/asirush/Documents/job/tables/TablesService/Tables.dll/Tables.dll.csproj",
+      "projectPath": "/home/asirush/Documents/learning/itstep/csCource/tables/TablesService/Tables.dll/Tables.dll.csproj",
       "packagesPath": "/home/asirush/.nuget/packages/",
-      "outputPath": "/home/asirush/Documents/job/tables/TablesService/Tables.dll/obj/",
+      "outputPath": "/home/asirush/Documents/learning/itstep/csCource/tables/TablesService/Tables.dll/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/asirush/.nuget/NuGet/NuGet.Config"
