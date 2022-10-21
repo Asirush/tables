@@ -1,0 +1,11 @@
+C:\Users\gertsen.e\Documents\Асир\Tables.dll\bin\Debug\net5.0\Tables.dll.deps.json
+C:\Users\gertsen.e\Documents\Асир\Tables.dll\bin\Debug\net5.0\Tables.dll.dll
+C:\Users\gertsen.e\Documents\Асир\Tables.dll\bin\Debug\net5.0\ref\Tables.dll.dll
+C:\Users\gertsen.e\Documents\Асир\Tables.dll\bin\Debug\net5.0\Tables.dll.pdb
+C:\Users\gertsen.e\Documents\Асир\Tables.dll\obj\Debug\net5.0\Tables.dll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gertsen.e\Documents\Асир\Tables.dll\obj\Debug\net5.0\Tables.dll.AssemblyInfoInputs.cache
+C:\Users\gertsen.e\Documents\Асир\Tables.dll\obj\Debug\net5.0\Tables.dll.AssemblyInfo.cs
+C:\Users\gertsen.e\Documents\Асир\Tables.dll\obj\Debug\net5.0\Tables.dll.csproj.CoreCompileInputs.cache
+C:\Users\gertsen.e\Documents\Асир\Tables.dll\obj\Debug\net5.0\Tables.dll.dll
+C:\Users\gertsen.e\Documents\Асир\Tables.dll\obj\Debug\net5.0\ref\Tables.dll.dll
+C:\Users\gertsen.e\Documents\Асир\Tables.dll\obj\Debug\net5.0\Tables.dll.pdb
