@@ -10,3 +10,15 @@ C:\Users\gertsen.e\Documents\Асир\Beta2\obj\Debug\Beta2.csproj.CoreCompileIn
 C:\Users\gertsen.e\Documents\Асир\Beta2\obj\Debug\Beta2.csproj.CopyComplete
 C:\Users\gertsen.e\Documents\Асир\Beta2\obj\Debug\Beta2.dll
 C:\Users\gertsen.e\Documents\Асир\Beta2\obj\Debug\Beta2.pdb
+C:\Users\АбдухаликовА\Documents\tables\Beta2\bin\Debug\Beta2.dll.config
+C:\Users\АбдухаликовА\Documents\tables\Beta2\bin\Debug\Beta2.dll
+C:\Users\АбдухаликовА\Documents\tables\Beta2\bin\Debug\Beta2.pdb
+C:\Users\АбдухаликовА\Documents\tables\Beta2\bin\Debug\EntityFramework.dll
+C:\Users\АбдухаликовА\Documents\tables\Beta2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\АбдухаликовА\Documents\tables\Beta2\bin\Debug\EntityFramework.xml
+C:\Users\АбдухаликовА\Documents\tables\Beta2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\АбдухаликовА\Documents\tables\Beta2\obj\Debug\Beta2.csproj.AssemblyReference.cache
+C:\Users\АбдухаликовА\Documents\tables\Beta2\obj\Debug\Beta2.csproj.CoreCompileInputs.cache
+C:\Users\АбдухаликовА\Documents\tables\Beta2\obj\Debug\Beta2.csproj.CopyComplete
+C:\Users\АбдухаликовА\Documents\tables\Beta2\obj\Debug\Beta2.dll
+C:\Users\АбдухаликовА\Documents\tables\Beta2\obj\Debug\Beta2.pdb
