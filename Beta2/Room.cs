@@ -70,10 +70,6 @@ namespace Beta2
             {
                 var data = db.Descs.Include("Users").ToList();
 
-                //проверка на сотстав стола, не более 50% с одного департамента
-
-                //добавим имена, если пользователь который есть в этой таблитчке, то ты его не садишь за стол
-
                 if (db.Descs.ToList().Count(c => c.IsTableFull() == false) > 0)
                 {
                     while (result.BoolResult == false)

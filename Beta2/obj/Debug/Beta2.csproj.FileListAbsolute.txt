@@ -22,3 +22,15 @@ C:\Users\АбдухаликовА\Documents\tables\Beta2\obj\Debug\Beta2.csproj.
 C:\Users\АбдухаликовА\Documents\tables\Beta2\obj\Debug\Beta2.csproj.CopyComplete
 C:\Users\АбдухаликовА\Documents\tables\Beta2\obj\Debug\Beta2.dll
 C:\Users\АбдухаликовА\Documents\tables\Beta2\obj\Debug\Beta2.pdb
+J:\Асирка\tables\Beta2\bin\Debug\Beta2.dll.config
+J:\Асирка\tables\Beta2\bin\Debug\Beta2.dll
+J:\Асирка\tables\Beta2\bin\Debug\Beta2.pdb
+J:\Асирка\tables\Beta2\bin\Debug\EntityFramework.dll
+J:\Асирка\tables\Beta2\bin\Debug\EntityFramework.SqlServer.dll
+J:\Асирка\tables\Beta2\bin\Debug\EntityFramework.xml
+J:\Асирка\tables\Beta2\bin\Debug\EntityFramework.SqlServer.xml
+J:\Асирка\tables\Beta2\obj\Debug\Beta2.csproj.AssemblyReference.cache
+J:\Асирка\tables\Beta2\obj\Debug\Beta2.csproj.CoreCompileInputs.cache
+J:\Асирка\tables\Beta2\obj\Debug\Beta2.csproj.CopyComplete
+J:\Асирка\tables\Beta2\obj\Debug\Beta2.dll
+J:\Асирка\tables\Beta2\obj\Debug\Beta2.pdb
